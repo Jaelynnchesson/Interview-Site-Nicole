@@ -2,12 +2,10 @@
 <!DOCTYPE html>
 <html>
   
-
-
 <body>
   <pr><h1><u>
     Name: Nicole</h1></pr></u>
-  
+ 
   <pr><center><h1>
     Hometown: New York City</h1><img src="https://cdn.glitch.com/1653367d-33a2-458b-b2a1-c4980090c706%2Fnoun_New%20York_2438736.png?v=1631731251380" width="300" alt="New York"
        </center>
@@ -15,9 +13,9 @@
 
 
 
-
+<br>
 <hr>
-  
+    </br> 
   <pr><center><h1 class="one">
     Morning lark vs Night Owl?
     </pr>
